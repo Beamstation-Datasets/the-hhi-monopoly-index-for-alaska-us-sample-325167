@@ -1,6 +1,6 @@
 # The HHI Monopoly Index for Alaska, US
 
-> Free BeamStation sample export with 6 rows and masked direct-contact fields.
+> Free BeamStation sample export with 5 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `325167` |
 | Location | Alaska |
 | Category | Restaurants |
-| Full dataset size | 65 records |
-| Free sample size | 6 records (9.23%) |
-| Last export | 2026-04-08T00:40:31.243788+00:00 |
+| Full dataset size | 55 records |
+| Free sample size | 5 records (9.09%) |
+| Last export | 2026-04-15T06:24:22.411249+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-alaska-us-sample-325167/releases/download/sample-latest/beamstation_325167_restaurants-us-ak_SAMPLE_DIST.csv) |
 
 ## What is in this sample
