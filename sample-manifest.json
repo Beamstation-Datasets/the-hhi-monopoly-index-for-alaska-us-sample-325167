@@ -1,12 +1,12 @@
 {
-  "export_job_id": "d624d201-740a-4ddf-a975-25846d21eb34",
+  "export_job_id": "418c6df7-7a2f-45f0-9091-fa29097fcaa1",
   "id_short": 325167,
-  "published_at": "2026-04-18T07:52:47Z",
+  "published_at": "2026-04-22T19:34:14Z",
   "repo_name": "the-hhi-monopoly-index-for-alaska-us-sample-325167",
   "sample_asset_name": "beamstation_325167_restaurants-us-ak_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/325167/beamstation_325167_restaurants-us-ak_SAMPLE_DIST.csv",
-  "sample_records": 5,
-  "sample_sha256": "ccaac8fb4ce7c3cc44582057062ecf2cac02363151bd6cdd19016b9c1faf8c8e",
-  "sample_size_bytes": 34031,
-  "total_records": 55
+  "sample_records": 3,
+  "sample_sha256": "01fe414c48d26394a553985e9f1d83ab2a1ea5e66b204fe0192bd3214e102347",
+  "sample_size_bytes": 26495,
+  "total_records": 35
 }
